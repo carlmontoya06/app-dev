@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# Doctor Strange in the Multiverse of Madness
+## **Doctor Strange in the Multiverse of Madness** is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Strange must protect America Chavez (Gomez), a teenager capable of traveling the multiverse, from the Scarlet Witch (Olsen).
